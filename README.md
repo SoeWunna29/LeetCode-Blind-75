@@ -1,0 +1,1 @@
+This repository contains Google Colab notebooks with solutions to each of the Blind 75 LeetCode questions. The Blind 75 list is a collection of 75 LeetCode questions commonly encountered in technical interviews. These questions cover a wide range of topics, including arrays, strings, linked lists, binary trees, dynamic programming, and more.
